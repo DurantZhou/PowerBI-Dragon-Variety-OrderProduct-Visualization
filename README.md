@@ -17,7 +17,7 @@ Fields: CustomerID, CustomerName, City, Location, Contact, Address,etc.
 Fields: ProductSKU, ProductName, Category, Product_Price, Product_Cost, RetailPrice, etc.
 ### 4. ProductImage Table
 Fields: ProductName, Photo
-#### 5. SalesOrder Amount
+### 5. SalesOrder Amount
 Fields: OrderNumber, OrderDate, PaymentStatus, SalesPerson, AmountPaid, OrderTotal
 Used to calculate OrderTotal and AmountPaid
 
