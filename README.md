@@ -31,9 +31,15 @@ Used to calculate OrderTotal and AmountPaid
 ## Key Insights
 
 ## Dashboard
+### OrderProduct Visualization
 <img width="1620" height="903" alt="image" src="https://github.com/user-attachments/assets/9b412e2b-6aa0-4d13-97bc-72bfcc2980b5" />
+### CustomerInfo Visualization
 <img width="1596" height="894" alt="image" src="https://github.com/user-attachments/assets/f33ca119-db03-4c1b-96f5-5609aad5ab89" />
+### SalesData Visualization
 <img width="1584" height="900" alt="image" src="https://github.com/user-attachments/assets/b77d3d22-1818-4c1c-874e-cdd275def46e" />
+### Popular Products Calculation
+<img width="1397" height="844" alt="image" src="https://github.com/user-attachments/assets/1dda24e3-0283-4583-a530-24e2d5185f93" />
+
 
 ## Conclusion
 The dashboard focuses on the quantitative analysis of orderproducts, aiming to help sales team serving customers professionally. When sales/users are on the field, they can search the customer, and choose orders or categories to 
@@ -43,3 +49,4 @@ view products history. In addition, they can identify the most popular products 
 Developed by Yulin Zhou
 Feel free to email me: durantzhou0803@gmail.com
 or reach out to me via Linkedin: https://www.linkedin.com/in/yulin-zhou-700003ba/
+If you want to access the file, can contact me by email or linkedin.
