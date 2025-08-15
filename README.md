@@ -39,6 +39,9 @@ Used to calculate OrderTotal and AmountPaid
 <img width="1584" height="900" alt="image" src="https://github.com/user-attachments/assets/b77d3d22-1818-4c1c-874e-cdd275def46e" />
 ### Popular Products Calculation
 <img width="1397" height="844" alt="image" src="https://github.com/user-attachments/assets/1dda24e3-0283-4583-a530-24e2d5185f93" />
+### Overview of Sales
+<img width="1440" height="845" alt="image" src="https://github.com/user-attachments/assets/79c50ec6-0ff5-4a66-bf0d-5d8b0a189be9" />
+
 
 
 ## Conclusion
