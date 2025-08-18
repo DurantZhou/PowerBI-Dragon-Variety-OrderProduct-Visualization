@@ -6,7 +6,8 @@ It also provides the customer information and ordering ranges to sales reps so t
 They can check their sales situations at any time without opening the ordering system(Inflow), which is more convenient and effecient.
 
 ## 2. Data Model
-<img width="1872" height="1011" alt="image" src="https://github.com/user-attachments/assets/5e0d7bb1-cd34-4556-b15b-ab492cb9bc82" />
+<img width="1244" height="731" alt="image" src="https://github.com/user-attachments/assets/a6cac8b5-7e8d-4e53-adfb-2f082ab82ad3" />
+
 
 
 ### 1. SalesOrder Table
